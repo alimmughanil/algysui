@@ -1,0 +1,25 @@
+{
+  "name": "algysui",
+  "version": "0.0.1",
+  "description": "component library to create html element with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alimmughanil/algysui.git"
+  },
+  "keywords": [
+    "html",
+    "element",
+    "javascript",
+    "component"
+  ],
+  "author": "Alim Mughanil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alimmughanil/algysui/issues"
+  },
+  "homepage": "https://github.com/alimmughanil/algysui#readme"
+}
